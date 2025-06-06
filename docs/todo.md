@@ -1,0 +1,1 @@
+- How to verify the legality of your land title? → https://servicios.ri.gob.do/consultadeproductos

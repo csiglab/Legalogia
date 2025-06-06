@@ -1,2 +1,3 @@
 # Legalogia
-aboratorium Maius Legalis
+
+> Lboratorium Maius Legalis
