@@ -1,6 +1,6 @@
 # Legalogia
 
-> Lboratorium Maius Legalis
+> Laboratorium Maius Legalis
 
 ## References
 
